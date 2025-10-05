@@ -1,0 +1,4 @@
+John Dee JD123 1500.50 1600.75 123-45-6789 john.dee@kingchea.com
+Jane Smith JS456 2000.00 2100.00 987-65-4321 jane.smith@kingchea.com
+Alice Johnson AJ789 1200.00 1300.00 555-12-3456 alice.johnson@kingchea.com
+Bobby Love BL321 1800.25 1850.50 222-33-4444 bob.lee@kingchea.com
